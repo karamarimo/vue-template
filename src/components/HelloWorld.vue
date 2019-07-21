@@ -1,5 +1,5 @@
 <template>
-  <div id="hideen_area">aaaa</div>
+  <div id="hideen_area">aaaaaaaaaaaa</div>
 </template>
 
 <script>
